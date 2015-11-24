@@ -6,6 +6,7 @@
 * To change this template use File | Settings | File Templates.
 */
 
+
 var G_SELECTED_WORDS = [
 ];
 
